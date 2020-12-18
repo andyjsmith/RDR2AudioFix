@@ -2,7 +2,7 @@
 
 This is a temporary fix for the common bug in RDR2 where the audio volume is set to a very low number every time the game starts.
 
-Just run the .exe file and it will automatically reset the volume level every few seconds for RDR2.exe. Or download AutoHotKey and run the script manually.
+Just run the .exe file and it will automatically reset the volume level every few seconds for RDR2.exe. Or download AutoHotKey, clone this repo, and run the RDR2AudioFix.ahk script manually.
 
 ## Installation / Running at Startup
 * Download the [RDR2AudioFix.exe](https://raw.githubusercontent.com/andyjsmith/RDR2AudioFix/master/RDR2AudioFix.exe)
