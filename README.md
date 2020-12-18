@@ -15,6 +15,6 @@ Just run the .exe file and it will automatically reset the volume level every fe
 
 ## Reference
 [https://www.reddit.com/r/PCRedDead/comments/kbqhu7/red_dead_2_rockstar_launcher_keeps_resetting_to_8/](https://www.reddit.com/r/PCRedDead/comments/kbqhu7/red_dead_2_rockstar_launcher_keeps_resetting_to_8/)
-
 [https://www.reddit.com/r/PCRedDead/comments/k4nsfx/is_it_just_me_or_the_audio_is_extremely_low_after/](https://www.reddit.com/r/PCRedDead/comments/k4nsfx/is_it_just_me_or_the_audio_is_extremely_low_after/)
 
+Thanks to [/u/G33kDude](https://www.reddit.com/r/AutoHotkey/comments/87colk/controlling_volume_of_specific_applications/) for the AHK libraries
