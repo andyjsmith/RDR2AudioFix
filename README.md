@@ -11,6 +11,7 @@ Just run the .exe file and it will automatically reset the volume level every fe
 * (or browse to %appdata%\Microsoft\Windows\Start Menu\Programs\Startup)
 * Copy the .exe into that folder
 * Run the .exe
+* (Windows SmartScreen may pop up, just click more info and then Run Anyways)
 
 ## Reference
 [https://www.reddit.com/r/PCRedDead/comments/kbqhu7/red_dead_2_rockstar_launcher_keeps_resetting_to_8/](https://www.reddit.com/r/PCRedDead/comments/kbqhu7/red_dead_2_rockstar_launcher_keeps_resetting_to_8/)
